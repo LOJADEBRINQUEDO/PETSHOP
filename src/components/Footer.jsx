@@ -1,6 +1,6 @@
 export default function Footer() {
     return (
-        <footer >
+        <footer className="bg-gray-800 text-white text-center p-4 mt-8">
             <p>Projeto de React - Todos os direitos reservados</p>
         </footer>
     );
