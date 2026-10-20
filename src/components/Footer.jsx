@@ -1,7 +1,8 @@
 export default function Footer() {
     return (
         <footer className="bg-gray-800 text-white text-center p-4 mt-8">
-            <p>Projeto de React - Todos os direitos reservados</p>
+            <p>Petshop — Cuidado e bem-estar para seu pet.</p>
+            <p className="mt-2 text-sm text-gray-300">Projeto acadêmico de Web Development — 1ESPJ</p>
         </footer>
     );
 }
