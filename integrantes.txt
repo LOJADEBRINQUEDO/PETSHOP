@@ -1,0 +1,8 @@
+CHECKPOINT 5 - WEB DEVELOPMENT - 1ESPJ
+Projeto: Petshop
+
+Victor Ulisses de Morais Silva - RM 572634 - Tech Lead
+Henrique Giusti de Souza - RM 570766
+Pietro Alexandre Guerato - RM 571232
+
+Repositorio publico: https://github.com/LOJADEBRINQUEDO/PETSHOP
